@@ -1,7 +1,7 @@
 from calculator import add, subtract  # ← Новая строка
 
 def hello():
-    print("Hello from my first project!")
+    print("Hi from my first project!!!")
 
 if __name__ == "__main__":
     hello()
